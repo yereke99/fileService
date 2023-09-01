@@ -1,1 +1,3 @@
 # fileService
+
+only ./main.go
